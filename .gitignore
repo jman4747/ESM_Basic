@@ -25,6 +25,7 @@ hs_err_pid*
 
 #### MS Office Gitignore ####
 *.tmp
+~$*.*
 
 # Word temporary
 ~$*.doc*
